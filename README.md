@@ -1,1 +1,1 @@
-<h1 align="center">Ceci est le profil Github officiel de Outerline</h1>
+<h1 align="center">Ceci est le profil officiel de Outerline</h1>
