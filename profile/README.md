@@ -1,9 +1,9 @@
-# Outerline RP - Bridging the Gap between Advanced GTA V Roleplay and the Awaited GTA VI RP 🚗🎮
+# Outerline - Bridging the Gap between Advanced GTA V Roleplay and the Awaited GTA VI RP 🚗🎮
 
-Welcome to Outerline RP, where immersive role-playing serves as the bridge between the advanced GTA V RP experience and the anticipation of GTA VI RP upon its release.
+Welcome to Outerline, where immersive role-playing serves as the bridge between the advanced GTA V RP experience and the anticipation of GTA VI RP upon its release.
 
-## About Outerline RP 🌟
-Outerline RP offers an immersive experience crafted to smoothly transition the community from the advanced realms of GTA V's roleplay narratives to the eagerly awaited world of GTA VI RP.
+## About Outerline 🌟
+Outerline offers an immersive experience crafted to smoothly transition the community from the advanced realms of GTA V's roleplay narratives to the eagerly awaited world of GTA VI RP.
 
 ### Key Features 🌐
 - **Seamless Transition:** Effortlessly shifting the storyline from the advanced GTA V RP to the promising landscape of GTA VI RP.
@@ -16,18 +16,18 @@ Outerline RP offers an immersive experience crafted to smoothly transition the c
 
 ## Getting Started 🚀
 ### Requirements 🛠️
-To join Outerline RP server, you'll need:
+To join Outerline server, you'll need:
 - **GTA V on PC** 🖥️
 - **FiveM Client** (Include any specific requirements or relevant mods for the server)
-- **Whitelisting** via Outerline RP's website 📝
+- **Whitelisting** via Outerline website 📝
 
 ### Installation 🎮
 1. Download and install the FiveM client from [FiveM.net](https://fivem.net).
-2. Head to [OuterlineRP.com](https://outerline.com) to whitelist and gain access to the server.
-3. Launch FiveM, locate "Outerline RP" in the server list, and embark on the journey!
+2. Head to [Outerline.com](https://outerline.com) to whitelist and gain access to the server.
+3. Launch FiveM, locate "Outerline" in the server list, and embark on the journey!
 
 ## Contributing 🤝
-Contributions to Outerline RP, whether through code, storylines, or community events, are warmly welcomed! You can contribute by:
+Contributions to Outerline, whether through code, storylines, or community events, are warmly welcomed! You can contribute by:
 - Reporting bugs or suggesting features through issues.
 - Forking the repository and initiating pull requests for enhancements.
 
